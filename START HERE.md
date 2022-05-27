@@ -23,7 +23,7 @@ Consider adding your Standard Operating Procedure (SOP) tasks to the templates s
 ```
 
 ### Use the Templates
-- I created the [[person]] and [[domain or ip]] templates to illustrate how you can templatize the information you might need to collect during an investigation.
+- I created the [[Человек]] and [[Домен или IP-адрес]] templates to illustrate how you can templatize the information you might need to collect during an investigation.
 - Consider creating your own templates for other data you need to collect and placing those files in the `--templates` directory.
 - Modify the existing templates to customize them for your needs.
 
