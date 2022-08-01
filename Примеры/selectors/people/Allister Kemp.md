@@ -3,7 +3,7 @@ tags: person poi primary
 ---
 # Person of interest
 ## Standard Operating Procedures
-- [ ] If person is in an area of the world where People Search Engines exist, search those - [[People Search Engine]].
+- [ ] If person is in an area of the world where People Search Engines exist, search those - [[Поиск людей]].
 - [ ] Perform Google queries for all email addresses discovered
 - [ ] For each username found, search https://whatsmyname.app
 
@@ -27,11 +27,11 @@ tags: person poi primary
 ## Selectors
 ### Phone number(s)
 - Phone 1: `+1 827-555-1029`
-- [ ] Use the [[Phone number]] actions
+- [ ] Use the [[Телефонный номер]] actions
 
 ### Email address(es)
 - Email 1: `almeister3311@test.com`
-- [ ] Use the [[Email address]] actions
+- [ ] Use the [[Адрес электронной почты]] actions
 
 ### Username(s)
 - Username 1: `almeister3311`
@@ -43,7 +43,7 @@ tags: person poi primary
 | almeister3311! | Specialsite.example.com | Yes. False positive.   |
 | almeister3311  | myspace.test.com        | No                       |
 
-- [ ] Perform [[Username]] actions
+- [ ] Perform [[Никнейм]] actions
 
 ### Social media account(s)
 - See table above [[#Username s]]
@@ -56,7 +56,7 @@ tags: person poi primary
 ## Employment
 - Company 1:  [[International Widget Accelerators]]
 - Position:  Web developer - [[iwa.temp]]
-- [ ] Use the [[Business name]] actions
+- [ ] Use the [[Название компании]] actions
 
 ## Education
 - School 1 name

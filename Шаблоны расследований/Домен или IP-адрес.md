@@ -1,13 +1,11 @@
 ---
-tags: 
+tags: ip сайт
 ---
 
-# General Notes
-
-# Domains and IP Addresses
-## Standard Operating Procedures
-- [ ] If domain, then use the [[Domain name]] actions
-- [ ] Examine ownership of domain or IP by running [[WHOIS Search]]
+# Домены и IP-адреса
+## Стандартные операционные процедуры
+- [ ] [[Доменное имя]] - смотри действия в отдельной странице
+- [ ] Проверьте владельца с помощью [[WHOIS сайтов]]
 
 ## Domain
 ### Web tracking codes
@@ -21,7 +19,7 @@ tags:
 #### Administrative contact
 - Name
 - Company
-- Physical address
+- [[Physical address]]
 - Email
 - Phone
 #### Technical contact
@@ -76,24 +74,24 @@ tags:
 - ASN
 
 ## Services
-- [ ] [[Computer Infrastructure]]
+- [ ] [[Анализ сетевой инфраструктуры]]
 ### Ports Open
 
 ### TLS/SSL Certificate History
 - Phone Number(s)
 - E-mail address(es)
 - IP address(es)
-- [ ] Use [[HTTPS Certificates]]
+- [ ] Use [[Поиск HTTPS-сертификатов]]
 
-##  DNS Entries
-### A record(s)
+##  Записи DNS
+### A-записи
 
-### CNAME record(s)
+### CNAME-записи
 
-### MX record(s)
+### MX-записи
 
-### NS record(s)
+### NS-записи
 
-### SOA
+### SOA-записи
 
-### TXT record(s)
+### TXT-записи

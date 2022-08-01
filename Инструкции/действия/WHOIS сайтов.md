@@ -1,5 +1,5 @@
 ---
-tags: action 
+tags: действия 
 ---
 
 - https://whoxy.com

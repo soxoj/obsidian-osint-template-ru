@@ -3,7 +3,7 @@ tags: person poi
 ---
 # Person of interest
 ## Standard Operating Procedures
-- [ ] If person is in an area of the world where People Search Engines exist, search those - [[People Search Engine]].
+- [ ] If person is in an area of the world where People Search Engines exist, search those - [[Поиск людей]].
 - [ ] Perform Google queries for all email addresses discovered
 - [ ] For each username found, search https://whatsmyname.app
 
@@ -27,16 +27,16 @@ tags: person poi
 ## Selectors
 ### Phone number(s)
 - Phone 1: `+1 309-555-2817`
-- [ ] Use the [[Phone number]] actions
+- [ ] Use the [[Телефонный номер]] actions
 
 ### Email address(es)
 - Email 1: `gariellap23@example.com`
-- [ ] Use the [[Email address]] actions
+- [ ] Use the [[Адрес электронной почты]] actions
 
 ### Username(s)
 - Username 1: `gariellap23`
 - Username 2: `gabipark`
-- [ ] Perform [[Username]] actions
+- [ ] Perform [[Никнейм]] actions
 
 ### Social media account(s)
 - URL to profile 1: https://www.test.com/gabipark
@@ -49,7 +49,7 @@ tags: person poi
 
 ## Employment
 - Company 1: 
-- [ ] Use the [[Business name]] actions
+- [ ] Use the [[Название компании]] actions
 
 ## Education
 - School 1 name

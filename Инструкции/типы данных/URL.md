@@ -3,8 +3,8 @@ tags: web website webpage
 ---
 
 # URL
-- [[Domain name]]
+- [[Доменное имя]]
 - [[Examine for Services]]
 - [[IP address]]
-- [[Search Engine]]
+- [[Произвольный поиск]]
 

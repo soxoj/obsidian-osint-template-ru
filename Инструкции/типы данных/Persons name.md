@@ -4,9 +4,9 @@ tags: person name givenname surname lastname firstname
 
 # Person's name
 - [[Government Records]]
-- [[People Search Engine]]
+- [[Поиск людей]]
 - [[Public Records Search]]
 - [[Registry Site]]
-- [[Search Engine]]
+- [[Произвольный поиск]]
 - [[Social Media Search]]
-- [[WHOIS Search]]
+- [[WHOIS сайтов]]

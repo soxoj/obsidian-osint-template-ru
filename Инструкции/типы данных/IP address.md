@@ -3,9 +3,9 @@ tags: ipaddress
 ---
 
 # IP address
-- [[Computer Infrastructure]]
+- [[Анализ сетевой инфраструктуры]]
 - [[DNS Search]]
 - [[Examine for Services]]
 - [[Geolocation]]
 - [[Host Reputation]]
-- [[Search Engine]]
+- [[Произвольный поиск]]
