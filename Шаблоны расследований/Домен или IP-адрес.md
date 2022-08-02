@@ -8,80 +8,56 @@ tags: ip сайт
 - [ ] Проверьте владельца с помощью [[WHOIS сайтов]]
 
 ## Домен
-### Сайт
+### Что за сайт
 ### Дата создания
 ### Поддомены
 
 ## Whois 
-### Current Registration
-#### Administrative contact
-- Name
-- Company
+### Текущие регистрационные данные
+#### Административный контакт
+- [[Имя]]
+- [[Название компании]]
 - [[Физический адрес]]
-- Email
-- Phone
-#### Technical contact
-- Name
-- Company
-- Physical address
-- Email
-- Phone
-#### Abuse contact
-- Name
-- Company
-- Physical address
-- Email
-- Phone
-#### Dates
-- Creation
-- Update
-- Expiration
-#### Name Servers
-- Name server 1
+- [[Адрес электронной почты]]
+- [[Телефонный номер]]
+#### Технический контакт
+- [[Имя]]
+- [[Название компании]]
+- [[Физический адрес]]
+- [[Адрес электронной почты]]
+- [[Телефонный номер]]
+#### Abuse-контакт
+- [[Имя]]
+- [[Название компании]]
+- [[Физический адрес]]
+- [[Адрес электронной почты]]
+- [[Телефонный номер]]
+#### Даты
+- Создания
+- Обновления
+- Истечения аренды
+#### NS-сервера
+- IP-адрес 1
+- IP-адрес 2
 
-### Historic Registration
-#### Administrative contact
-- Name
-- Company
-- Physical address
-- Email
-- Phone
-#### Technical contact
-- Name
-- Company
-- Physical address
-- Email
-- Phone
-#### Abuse contact
-- Name
-- Company
-- Physical address
-- Email
-- Phone
-#### Dates
-- Creation
-- Update
-- Expiration
-#### Name Servers
-- Name server 1
+### Исторические данные
+- [ ] Использовать разделы выше
 
 
-## IP Address Owner
-- Company name
-- Location
+## Владелец IP
+- Компания
+- Местоположение
 - ASN
 
-## Services
-- [ ] [[Анализ сетевой инфраструктуры]]
-### Ports Open
+## Сервисы
+- [ ] Используйте [[Анализ сетевой инфраструктуры]]
 
-### TLS/SSL Certificate History
-- Phone Number(s)
-- E-mail address(es)
-- IP address(es)
-- [ ] Use [[Поиск HTTPS-сертификатов]]
+### Открытые порты
 
-##  Записи DNS
+### История сертификатов TLS/SSL
+- [ ] Используйте [[Поиск HTTPS-сертификатов]]
+
+## Записи DNS
 ### A-записи
 
 ### CNAME-записи

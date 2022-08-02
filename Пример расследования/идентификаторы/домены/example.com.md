@@ -2,31 +2,21 @@
 tags: домен
 ---
 
-# Domains and IP Addresses
-
-## To Do
-- [ ] Search WHOIS
-- [ ] Examine if there is a website on this domain
-- [ ] If there is a website, investigate HTTPS certificates
-
-## Domain
-- Web tracking codes
-- Similarities among associates
-- Domain creation date(s)
-- Subdomains
-- Components
-- Cookies
+# Домены и IP-адреса
+## Стандартные операционные процедуры
+- [x] [[Доменное имя]] - смотри действия в отдельной странице ✅ 2022-08-02
+- [x] Проверьте владельца с помощью [[WHOIS сайтов]] ✅ 2022-08-02
 
 ## Whois Data
 ### Current Registration
 #### Administrative contact
-- Name: [[Петров Иван]]
-- Company: REDACTED
+- Name: [[Петров Иван Сергеевич]]
+- Company: [[ООО Онлайн-сервисы]]
 - Physical address: REDACTED
 - Email: REDACTED
 - Phone: REDACTED
 #### Technical contact
-- Name: [[Петров Иван]]
+- Name: [[Петров Иван Сергеевич]]
 - Company: REDACTED
 - Physical address: REDACTED
 - Email: REDACTED

@@ -3,9 +3,6 @@ tags: ip
 ---
 
 # IP-адрес
+- https://ipinfo.io/
 - [[Анализ сетевой инфраструктуры]]
-- [[DNS Search]]
-- [[Examine for Services]]
-- [[Geolocation]]
-- [[Host Reputation]]
 - [[Произвольный поиск]]

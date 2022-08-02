@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "leaflet-map",
-      "lastAccessed": 1659382285252,
+      "lastAccessed": 1659445106798,
       "markers": [
         {
           "id": "ID_9b5a3bb91acb",
@@ -24,7 +24,7 @@
       "overlays": [],
       "shapes": [],
       "files": [
-        "Примеры/selectors/locations/62 Number 20-83 a 20-15, Sogamoso, Boyacá, Colombia.md"
+        "Пример расследования/идентификаторы/адреса/Москва, улица Таганская, 25.md"
       ]
     }
   ],

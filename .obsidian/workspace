@@ -4,17 +4,98 @@
     "type": "split",
     "children": [
       {
-        "id": "329283cad7a0344c",
+        "id": "9550e35479e2b2d1",
+        "type": "leaf",
+        "state": {
+          "type": "mindmapView",
+          "state": {}
+        }
+      },
+      {
+        "id": "ee3da19bd229ffdb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Шаблоны расследований/Домен или IP-адрес.md",
+            "file": "Инструкции/типы данных/Анализ изображений.md",
             "mode": "source",
             "backlinks": true,
             "source": false
           }
-        }
+        },
+        "group": "535d54c6289e667c"
+      },
+      {
+        "id": "086af42cea87c602",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "Инструкции/типы данных/Анализ изображений.md",
+            "options": {
+              "collapse-filter": false,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1.3640935124747213,
+              "close": true
+            }
+          }
+        },
+        "group": "535d54c6289e667c"
+      },
+      {
+        "id": "0fccb734469c8b52",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "Инструкции/типы данных/Анализ изображений.md",
+            "options": {
+              "collapse-filter": false,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1.3640935124747213,
+              "close": true
+            }
+          }
+        },
+        "group": "535d54c6289e667c"
       }
     ],
     "direction": "vertical"
@@ -70,7 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333
+    "width": 249
   },
   "right": {
     "id": "00bf19fef4db5a00",
@@ -86,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Шаблоны расследований/Домен или IP-адрес.md",
+                "file": "Инструкции/типы данных/Анализ изображений.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,9 +184,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Шаблоны расследований/Домен или IP-адрес.md",
+                "file": "Инструкции/типы данных/Анализ изображений.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -126,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Шаблоны расследований/Домен или IP-адрес.md"
+                "file": "Инструкции/типы данных/Анализ изображений.md"
               }
             }
           },
@@ -143,19 +224,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 443
+    "width": 535
   },
-  "active": "329283cad7a0344c",
+  "active": "ee3da19bd229ffdb",
   "lastOpenFiles": [
-    "Шаблоны расследований/Домен или IP-адрес.md",
-    "Шаблоны расследований/Человек.md",
-    "Примеры/selectors/people/Владимир Неизвестный.md",
-    "Примеры/selectors/people/Петров Иван.md",
-    "Примеры/selectors/people/Анна Шпак.md",
-    "КАК НАЧАТЬ.md",
-    "Инструкции/действия/Поиск аккаунтов по нику.md",
-    "Инструкции/действия/Валидация email.md",
-    "Инструкции/действия/Анализ сетевой инфраструктуры.md",
-    "Инструкции/действия/Проверка на вирусы.md"
+    "Инструкции/типы данных/Анализ изображений.md",
+    "Пример расследования/Открытые задачи.md",
+    "Пример расследования/media/фото.jpg",
+    "Пример расследования/идентификаторы/люди/Петров Иван Сергеевич.md",
+    "Пример расследования/идентификаторы/люди/Владимир Неизвестный.md",
+    "Пример расследования/идентификаторы/номера телефонов/+79834353555.md",
+    "Пример расследования/идентификаторы/домены/example.com.md",
+    "Пример расследования/идентификаторы/адреса/Список возможных адресов.md",
+    "Инструкции/действия/Проверка на вирусы.md",
+    "Пример расследования/Пример майндкарты.md"
   ]
 }
