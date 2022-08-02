@@ -4,7 +4,6 @@ tags: web website webpage
 
 # URL
 - [[Доменное имя]]
-- [[Examine for Services]]
-- [[IP address]]
+- [[IP-адрес]]
 - [[Произвольный поиск]]
 

@@ -7,19 +7,17 @@ tags: ip сайт
 - [ ] [[Доменное имя]] - смотри действия в отдельной странице
 - [ ] Проверьте владельца с помощью [[WHOIS сайтов]]
 
-## Domain
-### Web tracking codes
-### Domain creation date(s)
-### Subdomains
-### Components
-### Cookies
+## Домен
+### Сайт
+### Дата создания
+### Поддомены
 
-## Whois Data
+## Whois 
 ### Current Registration
 #### Administrative contact
 - Name
 - Company
-- [[Physical address]]
+- [[Физический адрес]]
 - Email
 - Phone
 #### Technical contact

@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path: \"example case\"",
+  "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -25,6 +25,6 @@
   "repelStrength": 10,
   "linkStrength": 0.75,
   "linkDistance": 236,
-  "scale": 0.9792839810161941,
+  "scale": 1.3078231778892302,
   "close": false
 }

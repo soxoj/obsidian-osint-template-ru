@@ -1,9 +1,7 @@
 ---
-tags: latitude lat lon longitude gpsd 
+tags: координаты широта долгота локация
 ---
 
-# GPS coordinates
+# GPS-координаты / локация
 - [[Поиск по картам]]
-- [[Physical address]]
-- [[Social Media Search]]
-
+- [[Физический адрес]]

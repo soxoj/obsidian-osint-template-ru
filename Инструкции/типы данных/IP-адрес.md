@@ -1,8 +1,8 @@
 ---
-tags: ipaddress
+tags: ip
 ---
 
-# IP address
+# IP-адрес
 - [[Анализ сетевой инфраструктуры]]
 - [[DNS Search]]
 - [[Examine for Services]]

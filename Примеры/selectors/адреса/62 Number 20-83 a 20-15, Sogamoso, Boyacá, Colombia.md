@@ -1,9 +1,9 @@
 ---
-tags: property residential
+tags: адрес
 location: [5.719036,-72.93814]
 ---
 
-## Map
+## Карта
 ```leaflet
 id: leaflet-map
 height: 500px
@@ -23,5 +23,5 @@ For more details about the options you can use with this plugin, visit https://g
 # Residence
 Location: `62 #20-83 a 20-15, Sogamoso, Boyacá, Colombia`
 
-- Owners: [[Allister Kemp]] and [[Gabriella Parkington]]
-- Resident: [[Isiah Kemp]]
+- Owners: [[Петров Иван]] and [[Анна Шпак]]
+- Resident: [[Владимир Неизвестный]]

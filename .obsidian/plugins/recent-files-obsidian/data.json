@@ -1,20 +1,116 @@
 {
   "recentFiles": [
     {
-      "basename": "iwa.temp",
-      "path": "Примеры/selectors/domains/iwa.temp.md"
-    },
-    {
-      "basename": "Physical address",
-      "path": "Инструкции/типы данных/Physical address.md"
-    },
-    {
-      "basename": "Public Records Search",
-      "path": "Инструкции/типы данных/Public Records Search.md"
-    },
-    {
       "basename": "Домен или IP-адрес",
       "path": "Шаблоны расследований/Домен или IP-адрес.md"
+    },
+    {
+      "basename": "Человек",
+      "path": "Шаблоны расследований/Человек.md"
+    },
+    {
+      "basename": "Владимир Неизвестный",
+      "path": "Примеры/selectors/people/Владимир Неизвестный.md"
+    },
+    {
+      "basename": "Петров Иван",
+      "path": "Примеры/selectors/people/Петров Иван.md"
+    },
+    {
+      "basename": "Анна Шпак",
+      "path": "Примеры/selectors/people/Анна Шпак.md"
+    },
+    {
+      "basename": "КАК НАЧАТЬ",
+      "path": "КАК НАЧАТЬ.md"
+    },
+    {
+      "basename": "Поиск аккаунтов по нику",
+      "path": "Инструкции/действия/Поиск аккаунтов по нику.md"
+    },
+    {
+      "basename": "Валидация email",
+      "path": "Инструкции/действия/Валидация email.md"
+    },
+    {
+      "basename": "Анализ сетевой инфраструктуры",
+      "path": "Инструкции/действия/Анализ сетевой инфраструктуры.md"
+    },
+    {
+      "basename": "Проверка на вирусы",
+      "path": "Инструкции/действия/Проверка на вирусы.md"
+    },
+    {
+      "basename": "Поиск HTTPS-сертификатов",
+      "path": "Инструкции/действия/Поиск HTTPS-сертификатов.md"
+    },
+    {
+      "basename": "Файл",
+      "path": "Инструкции/типы данных/Файл.md"
+    },
+    {
+      "basename": "GPS coordinates",
+      "path": "Инструкции/типы данных/GPS coordinates.md"
+    },
+    {
+      "basename": "Guess Email",
+      "path": "Инструкции/типы данных/Guess Email.md"
+    },
+    {
+      "basename": "Анализ изображений",
+      "path": "Инструкции/типы данных/Анализ изображений.md"
+    },
+    {
+      "basename": "Адрес электронной почты",
+      "path": "Инструкции/типы данных/Адрес электронной почты.md"
+    },
+    {
+      "basename": "Поиск контрагентов",
+      "path": "Инструкции/действия/Поиск контрагентов.md"
+    },
+    {
+      "basename": "Поиск по картам",
+      "path": "Инструкции/действия/Поиск по картам.md"
+    },
+    {
+      "basename": "IP-адрес",
+      "path": "Инструкции/типы данных/IP-адрес.md"
+    },
+    {
+      "basename": "Физический адрес",
+      "path": "Инструкции/типы данных/Физический адрес.md"
+    },
+    {
+      "basename": "Название компании",
+      "path": "Инструкции/типы данных/Название компании.md"
+    },
+    {
+      "basename": "Криптовалюта",
+      "path": "Инструкции/типы данных/Криптовалюта.md"
+    },
+    {
+      "basename": "Никнейм",
+      "path": "Инструкции/типы данных/Никнейм.md"
+    },
+    {
+      "basename": "Имя",
+      "path": "Инструкции/типы данных/Имя.md"
+    },
+    {
+      "basename": "URL",
+      "path": "Инструкции/типы данных/URL.md"
+    },
+    {
+      "basename": "iwa.temp",
+      "path": "Примеры/selectors/домены/iwa.temp.md"
+    },
+    {
+      "basename": "Список возможных адресов",
+      "path": "Примеры/selectors/адреса/Список возможных адресов.md"
+    },
+    {
+      "basename": "62 Number 20-83 a 20-15, Sogamoso, Boyacá, Colombia",
+      "path": "Примеры/selectors/адреса/62 Number 20-83 a 20-15, Sogamoso, Boyacá, Colombia.md"
     },
     {
       "basename": "Пример майндкарты",
@@ -29,40 +125,12 @@
       "path": "Примеры/Открытые задачи.md"
     },
     {
-      "basename": "List of Possible locations",
-      "path": "Примеры/selectors/locations/List of Possible locations.md"
-    },
-    {
-      "basename": "62 Number 20-83 a 20-15, Sogamoso, Boyacá, Colombia",
-      "path": "Примеры/selectors/locations/62 Number 20-83 a 20-15, Sogamoso, Boyacá, Colombia.md"
-    },
-    {
-      "basename": "КАК НАЧАТЬ",
-      "path": "КАК НАЧАТЬ.md"
-    },
-    {
-      "basename": "Человек",
-      "path": "Шаблоны расследований/Человек.md"
-    },
-    {
       "basename": "Доменное имя",
       "path": "Инструкции/типы данных/Доменное имя.md"
     },
     {
-      "basename": "Host Reputation",
-      "path": "Инструкции/типы данных/Host Reputation.md"
-    },
-    {
       "basename": "pexels-pixabay-220453",
       "path": "Примеры/media/pexels-pixabay-220453.jpg"
-    },
-    {
-      "basename": "Allister Kemp",
-      "path": "Примеры/selectors/people/Allister Kemp.md"
-    },
-    {
-      "basename": "Gabriella Parkington",
-      "path": "Примеры/selectors/people/Gabriella Parkington.md"
     },
     {
       "basename": "Поиск по изображениям и лицам",
@@ -71,18 +139,6 @@
     {
       "basename": "WHOIS сайтов",
       "path": "Инструкции/действия/WHOIS сайтов.md"
-    },
-    {
-      "basename": "Real Estate Search",
-      "path": "Инструкции/действия/Real Estate Search.md"
-    },
-    {
-      "basename": "Поиск по картам",
-      "path": "Инструкции/действия/Поиск по картам.md"
-    },
-    {
-      "basename": "Поиск HTTPS-сертификатов",
-      "path": "Инструкции/действия/Поиск HTTPS-сертификатов.md"
     },
     {
       "basename": "Произвольный поиск",
@@ -105,48 +161,8 @@
       "path": "Инструкции/действия/Поиск архивных копий сайта.md"
     },
     {
-      "basename": "Валидация email",
-      "path": "Инструкции/действия/Валидация email.md"
-    },
-    {
-      "basename": "Поиск аккаунтов по нику",
-      "path": "Инструкции/действия/Поиск аккаунтов по нику.md"
-    },
-    {
-      "basename": "Никнейм",
-      "path": "Инструкции/типы данных/Никнейм.md"
-    },
-    {
-      "basename": "Business Profile Search",
-      "path": "Инструкции/действия/Business Profile Search.md"
-    },
-    {
-      "basename": "Анализ сетевой инфраструктуры",
-      "path": "Инструкции/действия/Анализ сетевой инфраструктуры.md"
-    },
-    {
-      "basename": "Government Records",
-      "path": "Инструкции/типы данных/Government Records.md"
-    },
-    {
-      "basename": "Название компании",
-      "path": "Инструкции/типы данных/Название компании.md"
-    },
-    {
-      "basename": "Адрес электронной почты",
-      "path": "Инструкции/типы данных/Адрес электронной почты.md"
-    },
-    {
       "basename": "Телефонный номер",
       "path": "Инструкции/типы данных/Телефонный номер.md"
-    },
-    {
-      "basename": "GPS coordinates",
-      "path": "Инструкции/типы данных/GPS coordinates.md"
-    },
-    {
-      "basename": "Isiah Kemp",
-      "path": "Примеры/selectors/people/Isiah Kemp.md"
     }
   ],
   "omittedPaths": [],

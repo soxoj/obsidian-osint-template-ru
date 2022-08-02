@@ -1,5 +1,5 @@
 ---
-tags: domain
+tags: домен
 ---
 
 # Domains and IP Addresses
@@ -20,13 +20,13 @@ tags: domain
 ## Whois Data
 ### Current Registration
 #### Administrative contact
-- Name: [[Allister Kemp]]
+- Name: [[Петров Иван]]
 - Company: REDACTED
 - Physical address: REDACTED
 - Email: REDACTED
 - Phone: REDACTED
 #### Technical contact
-- Name: [[Allister Kemp]]
+- Name: [[Петров Иван]]
 - Company: REDACTED
 - Physical address: REDACTED
 - Email: REDACTED

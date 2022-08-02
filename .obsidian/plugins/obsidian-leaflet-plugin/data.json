@@ -1,5 +1,33 @@
 {
-  "mapMarkers": [],
+  "mapMarkers": [
+    {
+      "id": "leaflet-map",
+      "lastAccessed": 1659382285252,
+      "markers": [
+        {
+          "id": "ID_9b5a3bb91acb",
+          "type": "default",
+          "loc": [
+            -4.591825037648032,
+            -83.97801646362252
+          ],
+          "layer": "real",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Примеры/selectors/locations/62 Number 20-83 a 20-15, Sogamoso, Boyacá, Colombia.md"
+      ]
+    }
+  ],
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker",
